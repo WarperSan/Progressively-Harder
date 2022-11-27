@@ -15,7 +15,7 @@ namespace ProgressivelyHarder
             "Make the game progressively harder by removing most used upgrades";
 
         public const string RepoOwner = "WarperSan";
-        public const string RepoName = "BTD6-Mods";
+        public const string RepoName = "Progressively-Harder";
         public const string Icon = "up_arrow.png";
     }
 }
