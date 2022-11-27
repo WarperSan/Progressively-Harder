@@ -6,6 +6,7 @@ using MelonLoader;
 
 namespace ProgressivelyHarder
 {
+    [assembly: MelonInfo(typeof(ProgressivelyHarder), ModHelperData.Name, ModHelperData.Version, ModHelperData.RepoOwner)]
     public static class ModHelperData
     {
         public const string Version = "1.1.0";
