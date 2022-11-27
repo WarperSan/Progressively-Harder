@@ -12,3 +12,4 @@ Note:
 I didn't tried with heroes nor paragons. Paragons should work fine but I'm not sure about heroes
 
 ![Upgrade Path](upgrade_showoff.png)
+![Upgrade Menu](menu_showoff.png)
