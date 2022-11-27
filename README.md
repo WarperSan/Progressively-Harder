@@ -11,4 +11,4 @@ For example, if the best tower is a 025 Tack, it will put a restriction on the t
 Note:
 I didn't tried with heroes nor paragons. Paragons should work fine but I'm not sure about heroes
 
-[Upgrade Path](upgrade_showoff.PNG)
+[Upgrade Path](upgrade_showoff.png)
