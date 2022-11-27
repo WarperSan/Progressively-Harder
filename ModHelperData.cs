@@ -9,7 +9,7 @@ namespace ProgressivelyHarder
     [assembly: MelonInfo(typeof(ProgressivelyHarder), ModHelperData.Name, ModHelperData.Version, ModHelperData.RepoOwner)]
     public static class ModHelperData
     {
-        public const string Version = "1.1.0";
+        public const string Version = "1.0.0";
         public const string Name = "Progressively Harder";
         public const string Description =
             "Make the game progressively harder by removing most used upgrades";
