@@ -8,8 +8,9 @@ When the game starts (or when a victory is acquired), the game will take a rando
 For example, if the best tower is a 025 Tack, it will put a restriction on the tack shooter of xx5. Restrictions can be reset and load (if you want to make a fun challenge for someone).
 
 
-Note:
-I didn't tried with heroes nor paragons. Paragons should work fine but I'm not sure about heroes
-
 ![Upgrade Path](upgrade_showoff.png)
 ![Upgrade Menu](menu_showoff.PNG)
+
+
+Notes:
+I chose to only make it work on Impoppable because at round 80-100, you have more T5's so restrictions are have less impact (For example, if the mod restricts a 1xx dart, it will lock 2xx, 3xx, 4xx and 5xx)
