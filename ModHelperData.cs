@@ -12,7 +12,7 @@ namespace ProgressivelyHarder
         public const string Version = "1.0.0";
         public const string Name = "Progressively Harder";
         public const string Description =
-            "Make the game progressively harder by removing most used upgrades";
+            "Make the game progressively harder by removing most used upgrades a";
 
         public const string RepoOwner = "WarperSan";
         public const string RepoName = "Progressively-Harder";
